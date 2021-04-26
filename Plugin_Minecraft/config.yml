@@ -1,0 +1,4 @@
+quests:
+  quest1:
+    name: "Quete Test"
+    # reward: 3

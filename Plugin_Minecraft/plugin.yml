@@ -1,0 +1,19 @@
+name: MCQuestos
+version: 1.0
+author: KiKiGarou
+main: fr.kikigarou.pluginCommon.Main
+commands:
+  test:
+    description: Ceci est une commande de test
+    permission: test.use
+  alert:
+    description: Ceci est un broadcast custom
+    permission: bc.use
+  spawn:
+    description: Ceci est une commande pour se tp au spawn
+  fight:
+    description: Commande pour generer un combat et obtenir une recompense
+  resetquest:
+    description: Reset la quete
+  spawnquestos: 
+    description: Faire spawn questos le png qui donne les quetes
